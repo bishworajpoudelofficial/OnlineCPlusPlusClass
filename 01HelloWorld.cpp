@@ -1,5 +1,5 @@
 // This program print something on screen
-#include <iostream>
+#include <iostream.h>
 
 using namespace std;
 
